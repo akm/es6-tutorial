@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ccoenraets/es6-tutorial/issues"
   },
-  "homepage": "https://github.com/ccoenraets/es6-tutorial#readme"
+  "homepage": "https://github.com/ccoenraets/es6-tutorial#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0"
+  }
 }
